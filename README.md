@@ -102,5 +102,5 @@ This project covers:
 ---
 
 ## Author
+ANURAG VATS
 
-Your Name
